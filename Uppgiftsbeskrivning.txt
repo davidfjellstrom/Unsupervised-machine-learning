@@ -1,0 +1,16 @@
+# Uppgiftsbeskrivning
+
+## Uppgift
+- Välj ett valfritt dataset
+- Rengör data
+- Utför EDA, beskriv data och relationer mellan variabler
+- Utför Unsupervised machine learning, minst en teknik
+
+## Presentation
+- Beskriv datasetet, variabler, relationer mellan variabler
+- Presentera resultat av Unsupervised machine learning, beskriv vad ni hittade
+- Presentera resultat som databerättelse (runt 15 min)
+- Hur tolkar ni resultat? Vilket värde har det för t.ex. affärsverksamhet? Gör en story
+
+## Extra (om ni vill)
+- Gör statistik på era klustrar, jämför variabler, visualisera

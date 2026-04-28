@@ -1,0 +1,18 @@
+# Arbetsplan - grupp-projekt Unsupervised machine learning
+
+## Föreslagen plan i steg
+
+### Steg 1 — Välj dataset (gör detta först)
+Det är det viktigaste beslutet. Ett bra dataset för er ska ha ~10+ variabler, en mix av numeriska och kategoriska kolumner, och helst en naturlig "story" att berätta. Föreläsaren använde Mall_Customers.csv som exempel — ni kan använda Kaggle för inspiration.
+
+### Steg 2 — Datarening
+Hantera saknade värden, felaktiga format, dubbletter. Varför: Skräpdata in = skräpresultat ut. ML-algoritmer är känsliga för oren data.
+
+### Steg 3 — EDA
+Statistiska summeringar, visualiseringar, hitta mönster. Varför: Ni måste förstå era data innan ni applicerar algoritmer — annars vet ni inte om resultaten är rimliga.
+
+### Steg 4 — Unsupervised ML
+Minst en teknik. K-means klustring är det naturliga valet för nybörjare och passar de flesta dataset. Varför: Det är det som examineras — att kunna låta algoritmen hitta dolda grupperingar i data ni inte märkt upp.
+
+### Steg 5 — Tolkning & presentation
+Bygg er "story". Vad betyder klustrerna? Vilket affärsvärde har insikterna?
