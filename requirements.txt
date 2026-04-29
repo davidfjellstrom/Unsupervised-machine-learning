@@ -1,0 +1,7 @@
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+seaborn==0.13.2
+scikit-learn==1.8.0
+jupyterlab==4.5.6
+nbstripout==0.9.1
