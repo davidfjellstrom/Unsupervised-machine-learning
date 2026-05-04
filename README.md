@@ -22,4 +22,4 @@ Projektet går ut på att välja ett dataset, rengöra data, utföra EDA och app
 ## Gruppmedlemmar
 
 - David Fjellström
-- Anton
+- Anton Hergefeldt
